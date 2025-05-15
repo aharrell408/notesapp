@@ -7,7 +7,6 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    return (
       <div className="App">
         <header className="App-header">
           <img src={reactLogo} className="logo react" alt="React logo" />
@@ -16,7 +15,6 @@ function App() {
         </header>
       </div>
     );
-  )
 }
 
 export default App
